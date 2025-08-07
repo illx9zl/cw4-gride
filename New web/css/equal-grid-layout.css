@@ -45,7 +45,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 /* Style the header */
 .header {
-background-color: #e68415;
+background-color: #152ae6;
 padding: 30px;
 text-align: center;
 font-size: 35px;
@@ -65,7 +65,7 @@ height: 300px; /* Should be removed. Only for demonstration */
 }
 /* Style the footer */
 .footer {
-background-color: #e69620;
+background-color: #4253ec;
 padding: 10px;
 text-align: center;
 }
